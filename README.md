@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">👋 Hola, soy Liz Reyes</h1>
+<h1 align="center">👋 Hola, soy Elizabeth Reyes</h1>
 <h3 align="center">🧑‍💻 Analista de Datos | Python · Excel · Cloud · Data Studio</h3>
 
 <p align="center">
