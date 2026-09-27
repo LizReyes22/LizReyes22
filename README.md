@@ -1,19 +1,4 @@
 
-
-<!--
-**LizReyes22/LizReyes22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">👋 Hola, soy Elizabeth Reyes</h1>
 <h3 align="center">🧑‍💻 Analista de Datos | Python · Excel · Cloud · Data Studio</h3>
 
@@ -31,6 +16,10 @@ Soy una profesional enfocada en el **análisis de datos**, **visualización de i
 - 🌱 Aprendiendo más sobre **cloud computing** y **bases NoSQL**
 - ⚡ Dato curioso: disfruto convertir hojas de cálculo en dashboards
 
+### Objetivos e interes Profesionales
+- 🧩 Análisis de datos con detección de oportunidades, apoyando en la optimización de estrategias.
+- 📋 Me caracterizo por tener Iniciativa y adaptabilidad.
+- 🌱 Interesada en el diseño de arquitecturas de datos eficientes en AWS, específicamente en la automatización de pipelines ETL con Glue para transformar datos brutos de S3 en activos analíticos listos para el negocio, optimizando costes y latencia.
 ---
 
 ## 🛠️ Algunas Tecnologías y herramientas
