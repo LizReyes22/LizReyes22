@@ -53,6 +53,14 @@ Ejemplo de consulta y búsqueda de información en **AWS**, gestión de datos de
 <p align="left">
   <a href="https://github.com/LizReyes22"><img src="https://img.shields.io/badge/GitHub-LizReyes22-181717?style=for-the-badge&logo=github" /></a>
   <a href="www.linkedin.com/in/elizabeth-luna-yes"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <p align="center">
+  <a href="mailto:lizbusinessanalyst@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" height="30"/>
+  </a>
+  <a href="mailto:lizbusinessanalyst@gmail.com" style="text-decoration: none; color: #D14836; font-size: 18px; font-weight: bold;">
+    lizbusinessanalyst@gmail.com
+  </a>
+</p>
 </p>
 
 ---
